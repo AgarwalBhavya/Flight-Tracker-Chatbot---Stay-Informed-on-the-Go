@@ -1,0 +1,9 @@
+{
+  "id": "3c8424fa-e098-4721-abcd-e2e60cf77cfe",
+  "name": "flighttype",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

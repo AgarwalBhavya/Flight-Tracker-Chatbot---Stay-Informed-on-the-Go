@@ -1,0 +1,37 @@
+{
+  "id": "7cda0369-ad8b-4bd2-a600-6be52f810d33",
+  "name": "greeting",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hey! Welcome to flight reservation and searching system.  How can I help you?",
+            "Hello! Welcome to flight reservation and searching system. How can I help you?",
+            "Hii! Welcome to flight reservation and searching system. How can I help you?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

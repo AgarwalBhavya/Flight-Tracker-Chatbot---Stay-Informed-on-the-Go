@@ -1,0 +1,9 @@
+{
+  "id": "f13164d4-bfee-402a-8d84-6c89320dfe65",
+  "name": "passengertype",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
